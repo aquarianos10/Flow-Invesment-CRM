@@ -15,8 +15,8 @@
 const CRM_CONFIG = Object.freeze({
   APP_NAME: 'Nexo CRM',
   ADMIN_NAME: 'Administrador',
-  ADMIN_EMAIL: 'admin@tuempresa.com',
-  ADMIN_PASSWORD: 'CAMBIAR_ESTA_CLAVE',
+  ADMIN_EMAIL: 'aquarianos10@gmail.com',
+  ADMIN_PASSWORD: 'Juliana.123+',
   SESSION_SECONDS: 21600, // 6 horas
   STALE_DAYS: 7,
   TIMEZONE: Session.getScriptTimeZone() || 'America/Argentina/Buenos_Aires'
